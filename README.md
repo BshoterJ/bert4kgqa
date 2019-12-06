@@ -1,5 +1,5 @@
 # bert4kgqa
-An experiment of Chinese KGQA based on BERT_wwm. 
+An experiment of Chinese KGQA based on BERT. 
 
 Multi-task learning is used to train BERT for entity linking and relation prediction.
 
